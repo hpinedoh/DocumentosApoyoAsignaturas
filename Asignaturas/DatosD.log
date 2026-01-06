@@ -1,0 +1,231 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.6)  6 JAN 2026 17:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex
+(/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box52
+) (./DatosD.aux)
+\openout1 = `DatosD.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:4: Missing \endcsname inserted.
+<to be read again> 
+                   \linewidth 
+l.4 \begin{tabular*{\linewidth}[c]{X X }}
+                                         
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:4: Missing \endcsname inserted.
+<to be read again> 
+                   \linewidth 
+l.4 \begin{tabular*{\linewidth}[c]{X X }}
+                                         
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:4: LaTeX Error: Environment tabular*{\linewidth }[c]{X X } undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{tabular*{\linewidth}[c]{X X }}
+                                         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:5: Misplaced alignment tab character &.
+l.5 DATOS DE IDENTIFICACIÓN: &
+                                da\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:6: Argument of \author  has an extra }.
+<inserted text> 
+                \par 
+l.6 ... Prof. Heraclio Pinedo Hernández. \author}
+                                                   & {\it Plantel:} \par {\b...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:6: Paragraph ended before \author  was complete.
+<to be read again> 
+                   \par 
+l.6 ... Prof. Heraclio Pinedo Hernández. \author}
+                                                   & {\it Plantel:} \par {\b...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:6: Misplaced alignment tab character &.
+l.6 ...rof. Heraclio Pinedo Hernández. \author} &
+                                                   {\it Plantel:} \par {\bf ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:7: Misplaced alignment tab character &.
+l.7 ...ar {\bf hpinedohernandez@cobaezac.edu.mx} &
+                                                   {\it Teléfono:} \par {\b...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: Misplaced \crcr.
+\endtabular* ->\crcr 
+                     \egroup \egroup $\egroup 
+l.8 \end{tabular*}
+                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: Extra }, or forgotten \endgroup.
+\endtabular* ->\crcr \egroup 
+                             \egroup $\egroup 
+l.8 \end{tabular*}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: Extra }, or forgotten \endgroup.
+\endtabular* ->\crcr \egroup \egroup 
+                                     $\egroup 
+l.8 \end{tabular*}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 8.
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: Extra }, or forgotten $.
+<recently read> \egroup 
+                        
+l.8 \end{tabular*}
+                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: LaTeX Error: \begin{document} ended by \end{tabular*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \end{tabular*}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:8: Missing $ inserted.
+<inserted text> 
+                $
+l.8 \end{tabular*}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
+
+ []
+
+
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./DatosD.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 444 strings out of 473197
+ 8576 string characters out of 5718606
+ 396279 words of memory out of 5000000
+ 23774 multiletter control sequences out of 15000+600000
+ 559491 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,5n,50p,242b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on DatosD.pdf (1 page, 43024 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
