@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.6)  6 JAN 2026 17:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.6)  6 JAN 2026 17:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -616,7 +616,10 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count335
 \l__pdf_internal_box=\box118
-) (./DatosD.aux)
+) (./DatosD.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
 \openout1 = `DatosD.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -717,294 +720,25 @@ Package hyperref Info: Link coloring OFF on input line 4.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Undefined control sequence.
-\LT@echunk ->\crcr \LT@save@row 
-                                \cr \egroup \global \setbox \LT@gbox \lastbo...
-l.12         \end{tabularx}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Undefined control sequence.
-\LT@def@row ...e \expandafter \count@ \LT@old@row 
-                                                  \else {1}{0pt}\fi }\let \L...
-l.12         \end{tabularx}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+</home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/cobaez.png, id=7, 135.50626pt x 160.6pt>
+File: /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/cobaez.png Graphic file (type png)
+<use /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/cobaez.png>
+Package pdftex.def Info: /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/cobaez.png  used on input line 22.
+(pdftex.def)             Requested size: 24.39006pt x 28.90674pt.
+</home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/Zorro1.png, id=10, 264.99pt x 290.2845pt>
+File: /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/Zorro1.png Graphic file (type png)
+<use /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/Zorro1.png>
+Package pdftex.def Info: /home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/Zorro1.png  used on input line 22.
+(pdftex.def)             Requested size: 26.50055pt x 29.03014pt.
 
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Argument of \LT@max@sel has an extra }.
-<inserted text> 
-                \par 
-l.12         \end{tabularx}
-                           
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Paragraph ended before \LT@max@sel was complete.
-<to be read again> 
-                   \par 
-l.12         \end{tabularx}
-                           
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Undefined control sequence.
-\LT@end@hd@ft ...and #1}\LT@get@widths \LT@bchunk 
-                                                  
-l.12         \end{tabularx}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \let \hskip \vskip \let \vrule \hrule \let...
-l.12         \end{tabularx}
-                           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Missing $ inserted.
-<inserted text> 
-                $
-l.12         \end{tabularx}
-                           
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Missing } inserted.
-<inserted text> 
-                }
-l.12         \end{tabularx}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Missing } inserted.
-<inserted text> 
-                }
-l.12         \end{tabularx}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Argument of \author  has an extra }.
-<inserted text> 
-                \par 
-l.12         \end{tabularx}
-                           
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Paragraph ended before \author  was complete.
-<to be read again> 
-                   \par 
-l.12         \end{tabularx}
-                           
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Misplaced alignment tab character &.
-<inserted text> ... Pinedo Hernández. \author } &
-                                                   {\it Plantel:} \par {\bf ...
-l.12         \end{tabularx}
-                           
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Misplaced alignment tab character &.
-<inserted text> ...edohernandez@cobaezac.edu.mx} &
-                                                   {\it Teléfono:} \par {\b...
-l.12         \end{tabularx}
-                           
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Misplaced \crcr.
-\tbl_crcr:n ...l_count_missing_cells:n {#1}}\crcr 
-                                                  
-l.12         \end{tabularx}
-                           
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Extra }, or forgotten \endgroup.
-\endarray ...tbl_restore_outer_cell_data: \egroup 
-                                                  \@arrayright \gdef \@pream...
-l.12         \end{tabularx}
-                           
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Extra }, or forgotten $.
-<recently read> \egroup 
-                        
-l.12         \end{tabularx}
-                           
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Extra }, or forgotten $.
-\TX@trial ...er \tabular \the \toks@ \endtabular }
-                                                  \TX@ckpt \TX@typeout@ {\@s...
-l.12         \end{tabularx}
-                           
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Undefined control sequence.
-\TX@trial ...ar \the \toks@ \endtabular }\TX@ckpt 
-                                                  \TX@typeout@ {\@spaces \ex...
-l.12         \end{tabularx}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Package array Error:  Illegal pream-token (\noextrasspanish): `c' used.
-
-See the array package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12         \end{tabularx}
-                           
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Missing number, treated as zero.
-<to be read again> 
-                   \unskip 
-l.12         \end{tabularx}
-                           
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-Overfull \hbox (12.0pt too wide) in alignment at lines 12--12
-[] 
- []
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Extra }, or forgotten $.
-\TX@endtabularx ... }\the \TX@ftn \ifnum 0=`{\fi }
-                                                  \expandafter \expandafter ...
-l.12         \end{tabularx}
-                           
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:12: Missing $ inserted.
-<inserted text> 
-                $
-l.12         \end{tabularx}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-
-
-LaTeX Warning: File `/home/hpinedoh/Documentos/ApoyosEscolares/public/images/cobaez.png' not found on input line 14.
-
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:14: Package pdftex.def Error: File `/home/hpinedoh/Documentos/ApoyosEscolares/public/images/cobaez.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{document}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 16.6081pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.6081pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-4.6081pt}.
-
-
-LaTeX Warning: File `/home/hpinedoh/Documentos/ApoyosEscolares/public/images/Zorro1.png' not found on input line 14.
-
-
-/home/hpinedoh/Documents/GitHub/DocumentosApoyoAsignaturas/Asignaturas/DatosD.tex:14: Package pdftex.def Error: File `/home/hpinedoh/Documentos/ApoyosEscolares/public/images/Zorro1.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{document}
-                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 32.63017pt, for example:
+(fancyhdr)                \setlength{\footskip}{32.63017pt}.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
-] 
+ </home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/cobaez.png> </home/hpinedoh/Documents/GitHub/ApoyosEscolares/public/images/Zorro1.png>] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./DatosD.aux
 LaTeX Info: Redefining \. on input line 12.
@@ -1014,27 +748,20 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package lastpage Warning: Rerun to get the references right on input line 14.
-
  ) 
 Here is how much of TeX's memory you used:
- 26017 strings out of 473197
- 486852 string characters out of 5718606
- 917296 words of memory out of 5000000
- 48836 multiletter control sequences out of 15000+600000
- 561333 words of font info for 56 fonts, out of 8000000 for 9000
+ 25960 strings out of 473197
+ 483216 string characters out of 5718606
+ 920343 words of memory out of 5000000
+ 48781 multiletter control sequences out of 15000+600000
+ 560995 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,15n,98p,1074b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on DatosD.pdf (1 page, 88984 bytes).
+ 94i,16n,98p,1074b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on DatosD.pdf (1 page, 1021515 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 15373 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 14371 words of extra memory for PDF output out of 14400 (max. 10000000)
 
